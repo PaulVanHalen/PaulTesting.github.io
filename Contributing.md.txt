@@ -1,6 +1,0 @@
-*** Titulo
-
-** Subtitulo
-
-**** Si alguien quisiera realizar una modificacion deberia:
-
