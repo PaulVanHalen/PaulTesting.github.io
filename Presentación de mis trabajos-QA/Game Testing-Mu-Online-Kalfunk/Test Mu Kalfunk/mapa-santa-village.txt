@@ -1,0 +1,14 @@
+Sobre el mapa Santa Village:
+
+A partir del Smoke Test:
+
+-Falta el Npc de Papa Noel (que da un regalo cada 24 hs) -> De esta manera se pueden conseguir las mascotas "rudolphs" unicamente o anillos del "snowman" o algún item de interés que considere el administrador.
+
+El resto del mapa en cuanto a funcionamiento, ha pasado las pruebas.
+
+Comentarios:
+
+-Si quieren, al anillo del snowman pueden darlo en eventos, a muchos les gusta y pocos lo han podido tener alguna vez (según comentarios de la comunidad)
+
+-En relación a este evento: Podrían colocar en alguna zona del mapa Devias la horda de duentes junto al Evil Santa:
+ Esto es importante porque a partir del mensaje global "Curse santa and his curse goblin has invade us" Aparece esta horda junto al boss y aquí se obtienen las entradas del evento unicamente. Este sería el funcionamiento correcto y correlativo.

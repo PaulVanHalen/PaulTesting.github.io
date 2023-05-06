@@ -1,0 +1,8 @@
+Castle Siege - reporte:
+
+* Los caballos tienen poca resistencia.
+* Sellos mal ubicados.
+* Sleep elevado en el personaje Summoner.
+* Personaje Rage Fighter: Mata de un hit (desbalance)
+
+PD: hay que corregir el pvp en este sentido y reformar el Castle Siege mientras, siendo un evento importante.

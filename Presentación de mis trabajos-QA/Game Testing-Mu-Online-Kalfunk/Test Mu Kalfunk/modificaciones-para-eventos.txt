@@ -1,0 +1,12 @@
+Evento del Secromicon (dias domingos)
+
+Las modificaciones que necesita este evento son: Mas daño para los bosses, ya que hay cuatro, uno en cada etapa del evento y el boss mas poderoso al final. Luego las cuchillas, agujas, sacan muy poco daño, si se aumentara, el evento estaria mejor (mas si necesitan party y auras para pasar)
+
+------------------------------------------------------------------------
+Lucky Coins:
+Esta bien configurado. Al canjear 30 coins hay posibilidades de que nos toque una Green box o una Purple Box. La green dropea partes de item 380. La Purple solo tira zen (Esto habria que arreglarlo poniendo Harmonys x10 por ejemplo)
+-------------------------------------------------------------------------
+Es importante solucionar el problema del seed earth que no es posible ensamblarlo, ya que se quema siempre (aunque no sirva, hay pocos usuarios que los utilizan para activar los s4 siendo una combinacion secreta avanzada)
+------------------------------------------------------------------------
+Incluir el evento de crywolf y castle deep.
+------------------------------------------------------------------------

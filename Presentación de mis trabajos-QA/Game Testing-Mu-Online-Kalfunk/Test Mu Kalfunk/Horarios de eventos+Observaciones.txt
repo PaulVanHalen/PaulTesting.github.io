@@ -1,0 +1,46 @@
+Test no funcional: Horarios de los eventos + Otras observaciones
+
+* Loren Deep horario : 13.15 y 21.15
+* CryWolf: Editado tiempo de espera en cry , activada la penalizacion por fallar el evento, evento cada seis horas
+* Premios: Dark Elf: Drop: Item de tipo 380// Boss Balgass: Drop: Item de tipo S4 todo con opciones y sockets aleatorias.
+Premio a las elfas en el altar: pendiente de testear con dicho personaje en particular.
+
+Beneficio por ganar Crywolf:
+
+*10% rate en maquina chaos
+*90% menos de vida para los mobs (Excelente para levelear facil)
+
+Penalizacion por perder Crywolf:
+
+*60% Menos drop de joyas
+*30% Menos de Exp
+
+------------------------------------------------------------------------------------------------
+
+Evento Devil Square (lvl 1- lvl 7) Horario:  00, 02, 04, 06, 08, 10, 12, 14, 16, 18, 20, 22 hs.
+
+------------------------------------------------------------------------------------------------
+Blood Castle (lvl 1- lvl 8) - 
+
+Observacion: Premio corregido: drop de Bless, Souls, Jewels of Harmony, Life en packs x10.
+
+Horarios:
+
+00:30
+02:30 
+04:30 
+06:00
+08:30
+10:30
+12:30
+14:30
+16:30
+18:30
+20:30
+22:30
+
+-----------------------------------------------------------------------------------------------
+
+Chaos Castle (lvl 1- lvl 7) : Cada 3 horas, premio aleatorio: Acc, Life, o un Creation, 
+Corregido: Sacado drop de zen.
+horario:  01 04 07 10 13 16 19 22 hs.

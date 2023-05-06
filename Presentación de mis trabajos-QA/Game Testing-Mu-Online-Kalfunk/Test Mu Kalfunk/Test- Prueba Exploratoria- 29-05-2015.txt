@@ -1,0 +1,36 @@
+Reporte del: 29-05-2015
+
+Observaciones en general a partir de Pruebas Exploratorias:
+
+-Las dark elfs tienen mucha defensa (para ser full stats y bajarlas lento, considero que hay que regularlo)
+
+-Los eventos del Npc "Wandering Merchant Zyro" En sus dos primeras misiones que da, una de ellas esta en un idioma en que no se puede leer y como recompensa da un Vaul Expansion. El item solicitado es una Ancient Statue, que debería caer en Lost tower 7 de los mobs Death Knight -> Habrá que evaluar el premio, y a partir de esto habrá que incluir en el drop esa estatua para poder seguir avanzando con las quest.
+ La segunda mision de este Npc es ir al mapa Tarkan 2 en busca de 20 armaduras de Tantalos, pero este item no cae. La recompensa es: 1 jewel of creation, 1 jewel of life (al no haber creations en store, esta mision puede ser efectiva)
+
+En resumen: solicito el drop de los items de las quest.
+
+-El Npc de Moss que se ubica en el mapa Elbeland, es de un evento que debería aparecer una vez al día, y quedarse un tiempo maximo de 5 minutos. La idea es que a partir de comprar tantas veces un item sorpresa, en ese tiempo, salga un item valioso -> Al estar fijo, lo probe y me ha dado como mucho un arma de clase exelent sin nada de baja gama.
+
+-Al npc destinado al personaje del Magic Gladiator le falta el Flame Strike, un skill basico para el desarrollo del juego. 
+
+-Evento Blood castle: Drop moderado, buena experiencia, algunas jewels dropean. El premio a configurar (esta por defecto) ya que me ha tocado un "flame of condor" un jewel of life, o una jewel of bless. Esto será según el criterio del administrador.
+
+-Evento Chaos castle: funciona muy bien, no se observan bugs.
+
+-Cambiar el premio que dan los gens a cambio de la misiones por:1 bless y 1 soul (recomendación)
+
+*** Algunas solicitudes ***
+
+-Lucky coins en packs para testearlas en el Npc "David" del mapa Elbeland.
+
+-Entradas para el Illusion Temple en NPCs. En el Npc de Elbeland donde venden scrolls para el personaje de la Summoner o en el mapa Devias.
+(como se acostumbra generalmente en todos los servidores)
+
+---------------------------------------------------------------------------------------------------------------------
+Reporte del 30-05-2015 (continuación del día anterior)
+
+-NPCs de los Gens: Dan por mision, una contribucion de 5 puntos, y piden como requerimiento 500 puntos para promocionar al siguiente rango. Hay que modificar los valores como en el viejo cliente, ya que eso es una baja constribución.
+
+-Hay que regular los horarios para los eventos, ya que estan corridos 2 minutos por adelantado. Ejemplo: el Blood castle puede empezar a las 18: 32.
+ Esto es a partir de que los usuarios acostumbran a que en todos los demás servidores los horarios son puntuales (quizas es mas un detalle)
+

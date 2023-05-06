@@ -1,0 +1,9 @@
+Rates de la maquina chaos:
+
++10 y +11 = 85%
++12 y +13 =75%
++14=70%
++15=65%
+
+Ninguna observación de bug visual. Solo queda ver la configuración del código para corroborar que sea correlativo.
+

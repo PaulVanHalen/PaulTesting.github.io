@@ -1,0 +1,34 @@
+Reportes generales:
+
+-Mobs bug: algunos se quedan parados y no mueren.
+
+-Evento Blood Castle: a veces no abre la puerta (bug)
+------------------------------------
+Premios al cambiar Lucky coins:
+ 
+x30 da seed fire lvl1
+(No deberia dar seeds este tipo de cambios)
+x20 items exelent
+x10 items exelent
+------------------------------------
+Evento Double Goer: No hay Drops -> Añadir
+--------------------------------
+Evento Illusion temple: Se crashea al cruzar el portal (bug)
+---------------------------------
+Evento Devil Square: Sacar la entrada/ticket +8, ya que no tiene utilidad.
+---------------------------------
+Evento de devias (Gaion's Order): Se crashea a veces.
+---------------------------------
+Observación y comentarios:
+
+Con respectp del NPC de las Lucky Coins, siendo que los eventos ya dan jewels, estaría bueno que con:
+x10 coins: una caja kundum +1 a +5 (aleatorio) -> Configurar el drop de las mismas.
+x20 coins: llave silver (y algun otro item random)
+x30 coins: llave dorada (y algun otro item random para que no sea facil obtenerla) -> o que las coins sean dificiles de conseguir.
+
+A parte de esto, si el drop de las cajas es bajo, ambas cosas serian dificiles de obtener (bajar el drop de las cajas en el evento del Blood Castle por ejemplo) Y a partir de ahi habría que determinar que items dan las cajas estas. Por ejemplo: Kundum staff exe, Divine scepter, Air lin Bow, Chroma stick, Berouba, partes exe grand soul, dark phoenix (que son dificiles de obtener)
+------------------------------------------------------------
+ Como los creas (jewel of creation) son muy necesarios, y se quiere que los usuarios vayan a todos los eventos, sería recomendable sacarlas del Blood Castle, en lo posible, ya que como premio las dan en los Chaos Castle y mientras se lvlea, en el drop normal de los spots.
+ *** Lo mismo con las demas joyas, caen en todos lados -> bajar el drop en general seria la solucion para balancear esto.
+
+

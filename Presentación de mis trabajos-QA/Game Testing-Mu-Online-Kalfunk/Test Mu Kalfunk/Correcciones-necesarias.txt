@@ -1,0 +1,31 @@
+Correcciones necesarias para post-pruebas de regresion:
+
+------------------------------------------------------------------
+* Evento Last Man Standing: No esta transportando los jugadores a la zona de batalla, por ende no funciona (Bug)
+*Raklion Atchery: Selupan dropea un item s4 no exe, lo cual no es correcto. Tambien hay un bug que hace que aparezca dos veces.
+* Gaion´s Order y Secromicon -> evento de devias -> estos debeb ser regulados en relacion al tiempo de espera para ingresar a los portales (30 segundos de espera al menos), aumentar el numero de mobs y modificar el drop (tengo los txt referidos a este tema si son necesarios)
+------------------------------------------------------------------------------
+*Illusion temple: 
+- Hay que regularlo como en el parche anterior, ya que si te matan quedas atrapado en el safe del evento y no se puede finalizar correctamente.
+- Los portales no crashean, eso es algo muy positivo.
+- Hay que poner los premios de estos eventos como estaban en el parche anterior también.
+------------------------------------------------------------------------------
+Aumentar el numero de mobs dorados del "Dragon Invasion":
+ 
+-Debe haber al menos uno en estos mapas:
+Lorencia, Noria, Devias, Lost Tower, Swamp, Raklion, Kanturu, Tarkan 1 y 2, Atlans 1, 2 o 3.
+------------------------------------------------------------------------------
+Activar el evento de Crywolf -> Balgass´s Army (se encuentra deshabilitado)
+------------------------------------------------------------------------------
+Evento de la Refineria en el mapa Kanturu Relics: Drop: Da items no exelent de las manos del boss. Agregar items exelent con probabilidad de "luck"
+------------------------------------------------------------------------------
+
+Así debería estar el npc de las lucky coins según mis conocimientos:
+
+10 Luckys = Bundle Chaos, Bundle Life, Bless of Guardian(20), Splinter Armor(20), Claw of Beast(10), Box of Kundun+2
+20 Luckys = Box of Kundun+3 y +4, Bundle Jewel of Guardian, Silver Key, Bundle Gemstone
+30 Luckys = Box of Kundun+1 y +5, Gold Key. Con Menor Rate: Talisman of Luck 1%, Talisman of Chaos Assembly
+
+-------------------------------------------------------------------------------
+
+Aguardo comentarios para seguir avanzando a partir del nuevo parche.

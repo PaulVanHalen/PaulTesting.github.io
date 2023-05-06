@@ -1,0 +1,7 @@
+Observaciones de pruebas generales-borrador:
+
+*El aura de las elfas en 2da evolución (con 30k de stats en energia) dura 1 minuto (es muy poco de base) -> Aumentar durabilidad o ver la posibilidad de mejorar esto en el skill three.
+
+*El npc Moss no da items con luck (a veces da items con opciones semi ->3 opciones exe) -> habria que hacerlo aparecer como evento una vez al dia y por 1 o 2 minutos (asi no tienen la suerte de obtener muchos exes como la chroma stick, berouba, air lin) Los items valiosos deben ser dificiles de obtener.
+
+*La chroma stick esta solo para mago -> Para mg tambien se puede poner. Es una sugerencia.
