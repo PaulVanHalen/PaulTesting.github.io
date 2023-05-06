@@ -1,0 +1,13 @@
+Reportes en general de pruebas exploratorias:
+
+---------------------------------------------------------------------------------------------------------------------------------------
+Npc en mapa Devias 2, coordenadas: 8 ; 77
+
+Observación: 
+No funciona -> En este npc suelen haber flechas +4 y algun que otro item. Lo que se añada en él debe ser a criterio del administrador.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+Evaluar drop de Jewel of Creation:
+
+Ya que no se venden mas en NPCs, habrá que incluirla en eventos como el Chaos Castle. No darlas en packs, de este modo se regula la creación de Seeds, los precios en trades, etc. Esto a mi forma de ver, ayudaría a que haya un equilibrio en el juego.
+

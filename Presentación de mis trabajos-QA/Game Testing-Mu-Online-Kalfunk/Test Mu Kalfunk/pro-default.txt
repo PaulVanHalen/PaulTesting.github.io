@@ -1,0 +1,20 @@
+Despues del default (primer test en general del servidor):
+
+Queda pendiente reformar:
+
+-Drop de las cajas kundum +1 a +5
+-Drop de los cofres Silver y Gold
+-Canje de lucky coins de manera correcta
+-Regular el drop de joyas: caen muchas creations en todos los mapas, chaos (bless y souls no esta tan mal que caigan)
+-Ver si moss sigue dando los exes seguidos
+-Drops de los eventos (blood, chaos,etc)
+-Drop de los boss, medusa, etc
+-Rates de la maquina de chaos: si quedo como antes no hay drama
+-Corregir lo de los items de 5 sockets que caian de vez en cuando.
+
+Queda pendiente luego revisar:
+
+-Funcionamiento de los eventos en general (que podrian tener los problemas por defecto) -> blood, last man standing, double goer (doppleganger), Gaion, Secromicon, etc.
+
+
+

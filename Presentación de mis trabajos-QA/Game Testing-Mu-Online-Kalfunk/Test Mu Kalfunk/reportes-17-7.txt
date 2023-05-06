@@ -1,0 +1,20 @@
+Reportes del día, borrador:
+
+Bajar el drop de:
+
+-Symbol of kundum (+1 a +7)
+-Creations y chaos
+
+*Los packs de coins se hacen x10 y no x255 (hay que arreglar eso)
+
+-Los kundum de kalima no dan acc, dan zen. 
+
+-El boss Selupan me tiro una parte de set s4 no exelent.
+
+-No se puede abrir 2 mains o mas.
+
+-Cambiar el tiempo de aparicion del kundun, medusa y selupan (es muy seguido su respawn)
+
+-Quitar el filtro de las "malas palabras" No es necesario ya que contamos con un Foro con una sección para tratar estos temas.
+
+-Poner las flechas +4 en el Npc de Devias 2 en las afueras (tiene las +3, esto no debería ser así)

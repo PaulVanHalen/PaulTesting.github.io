@@ -1,0 +1,34 @@
+Observaciones generales:
+
+Evento Blood Castle:
+
+* Es non-pvp
+* Drop de items exelent moderado
+* Los premios siguen siendo: flame of condor, jewel of chaos, jewel of bless. Sigue como la vez anterior en la que se testeo.
+
+Sobre items:
+
+* Hay items que no tienen nombre (Esto pasa en los sets s4 mas que nada)
+* No se pueden tradear los "Chaos Rate Machine" (talismanes de chaos)
+
+NPC especial de combinaciones: 
+
+Maquina de chaos:
+
+Pruebas de items en relación a "rates" (para que un item suba de nivel o se queme)
+
+-1 ACC +9 a +10: se quemo con 50% de rate
+-1 exe+9 a +10: se quemo
+-1 exe +11 a +12: se quemo
+-1 exe +12 a +13: con éxito
+-1 exe +13 a +14 con chaos rate: 2 veces lo intente y se bajo a +0
+-1 exe+9= a +10 con chaos rate: se bajo a +0
+-1 exe+9= a +10 con chaos rate: subio con exito
+
+Esto es un historial de como ha venido funcionando el día de hoy la maquina. No quiero sacar una conclusion por mi parte, ya que no manejo los códigos con los que se programó el juego.
+
+------------------------------------------------------------------------------------------
+Prueba de regresión respecto al evento "Gaio's Order":
+
+* Los tiempos de espera de las puertas y acceso a los portales se han reducido con exito. Mejora añadida.
+

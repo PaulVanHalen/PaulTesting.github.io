@@ -1,0 +1,25 @@
+Notas de los eventos secundarios que fueron testeados:
+
+-El evento del mapa Devias (la orden de gaion/ Gaion's Order):
+
+* Tiene 7 mobs por sala. Se podrían agregar más por cada oleada.
+
+* El tiempo de espera que tiene para pasar el portal antes del comienzo es de 2:10 (dos minutos con diez segundos)
+Reducirlo entre 30 a 60 segundos mejoraría la experiencia del usuario con el evento (evitando esperas demás)
+
+* Para romper una puerta se debe esperar 30 segundos (El tiempo es correcto)
+
+* El boss del evento junto con los otros mobs dropean: Item de clase Acc que viene con un bug en sus opciones, y dos items de clase exelent.
+
+--Importante: Revisar el bug en items acc--
+
+* A veces quedan algunos mobs bugueados y no se los puede matar, esto es en los mapas en general.
+-- Esto también lo reporto para que sepan. Esperando a futuro para hacer pruebas de regresión --
+-------------------------------------------------------------------------------------------------------------------
+Comentarios adicionales:
+
+Necesito saber si el Npc de Santa esta en el evento de santa village, para poder probarlo.
+Para esto debo dedicarme plenamente a testear este evento de drops, de comienzo a fin.
+-------------------------------------------------------------------------------------------------------------------
+
+

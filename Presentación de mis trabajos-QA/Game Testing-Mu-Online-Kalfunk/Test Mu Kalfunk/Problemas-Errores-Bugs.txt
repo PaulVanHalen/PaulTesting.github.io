@@ -1,0 +1,13 @@
+A tener en cuenta:
+
+-No se permite crear Guilds estando en alguna de las facciones de Gens. Debería dejar hacerlo.
+
+-Los sets de clase acc que son de Season 6 ya no estan (solo los viejos items)
+
+-Hay que ver el tema del segundo baul (tal vez con la expansion se arregla) -> Puedo testear con mi pj si me editan un item de expansion (o tal vez el comando no este activo como para acceder -> /baul /ware /vault)
+  En caso de que se solucione asi, despues se ve con una quest que es especial para conseguir (asi no tenes que editarle a todo el svr ese item)
+
+-Con respecto a los items s4, hay algunos seeds que estaban ensamblados en su set y no quedaron tal cual como estaban en el otro cliente, pero es lo de menos imagino (es como eso que dijeron en la radio que si una bless se transformaba en scroll)
+
+-El illusion Temple aùn mantiene los bugs reportados, pero es un evento de poca concurrencia, o que no saben jugarlo sin guias. Por lo tanto no es de algo que sea importante tenerlo como prioridad.
+---------------------------------------------------------------------------------------------------------------------------------

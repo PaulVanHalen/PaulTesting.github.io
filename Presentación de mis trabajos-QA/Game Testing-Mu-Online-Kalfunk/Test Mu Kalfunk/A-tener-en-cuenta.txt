@@ -1,0 +1,13 @@
+Muchos usuarios han reportado que los personajes del tipo blade masters no hacen mucho daño al lvlear.
+Realice pruebas con mi blade master full stats y al resetear he notado que no mueren de un solo hit los mobs.
+Por lo tanto considero que hay que bajarle la defensa a los mobs de todos los mapas en general 
+(los de mapas como kanturu y raklion sobre todo que son los mas utilizados)
+-------------------------------------------------------------------
+Deshabilitar la mejora del twisting en el arbol (color violeta) que genera un efecto de "Backward" o sea un empujon al pegar.
+Este tipo de configuracioens se realizan en todos los servidores de este tipo por el problema que genera en la experiencia de juego al duelear.
+-------------------------------------------------------------------
+Purple box: da solo zen, modificar y agregar items.
+---------------------------------------------------------------------
+Caja kundum +3: De vez en cuando da un chaos, y no deberia -> en su defecto un item del tipo exelent de gama media.
+------------------------------------------------------------------------
+Activar eventos restantes: crywolf, castle deep, illusion temple para poder realizar las pruebas necesarias.

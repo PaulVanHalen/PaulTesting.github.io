@@ -1,0 +1,25 @@
+Resultados de tests en general:
+
+*Cofres silver y gold: Configurar su drop de manera que sea equilibrado.
+
+-Ya abri uno del tipo silver y me dio una "Elite Potion Mana" (este tipo de pociones no se deberia utilizar para el svr, y para el objetivo del mismo, esto ha quedado por defecto igualmente)
+
+*Estaría bueno aumentarle el daño y defensa o durabilidad a los boss de los eventos como el Double Goer, Gaion Order, Secromikon. Al ser eventos en equipo sería ideal que sean complicados, para la gente que es full stats, asi tienen mas desafios. En resumen, los boss estan muy "débiles" Mi sugerencia es darles mas vida y defensa.
+
+*En los eventos de Devias (Gaion's Order o Secromikon) si se le puede aumentar el daño a las hachas y cuchillas sería optimo, asi el reto es aun mas complicado.
+
+*Dentro del drop habria que bajar el de jewels como: bless, souls, chaos, lifes, gemstones, ya que los eventos las dan, y se rompería el equilibrio. Ademas, si tenemos en cuenta que los eventos como el Blood, Medusa, dan bundles de joyas (packs) sumado con lo que dan las lucky coins, tambien seria algo muy facil de obtener (Digamos dentro del pensamiento del svr medium, para que no se transforme en "fast")
+
+  A partir de esto, lo mejor seria evaluar si quitarle algunos premios a algun evento o de las lucky coins para dejarlo equilibrado.
+
+*Npc lucky coins: En vez de dar Box of kundum, da Box of luck! En vez de dar Bless of guardian/Splinter Armor/ Claw of Beast en packs, solo las da x1! Lo bueno es que otorgan llaves, talismanes de chaos de la suerte. --Esto hay que modificarlo según lo que dice el NPC que daría y quedaría perfecto--
+------------------------------------------------------------------------------------------------------------------------------
+
+*Recordatorio: Hay que configurar a Moss en modo evento y con una duracion de 1 o 2 minutos, segun como entregue los premios. Esto lo nombre en otros reportes para tener en cuenta. No es algo de caracter crítico, ni urgente.
+
+*Cuando los mobs te matan te dicen "you are a noob" Esto es muy por defecto. Como es un servidor de publico de america latina, quizas sea bueno agregar alguna frase mas amigable como "buen intento" (por ejemplo)
+----------------------------------------------------------------------------------------------------------------------------------
+
+Opiniones:
+
+* Habria que promover la propuesta de eventos en los foros, que se puedan votar, etc -> Al haber gente de otros svrs siempre sale algo nuevo y una lluvia de ideas nos puede dar alguna buena idea. A mi se me ocurre que se haga un post en el que se pida la participacion para nuevos cambios (yo por ejemplo tengo un par desde la perspectiva de user)

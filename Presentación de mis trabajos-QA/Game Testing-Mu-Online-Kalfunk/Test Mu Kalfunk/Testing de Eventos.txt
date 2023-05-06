@@ -1,0 +1,11 @@
+Necesito lo siguiente para continuar avanzando con las pruebas:
+
+-Entradas para el Illusion Temple
+Los tickets de 255 usos son los mas indicados. Aunque tampoco estaría mal los scrolls de distinto nivel.
+-Entradas para el mapa Santa Village, debería poder visualizar los npcs de buffs ahi dentro, incluido papa noel (este es el parametro base)
+-Packs de lucky coins para probar el Npc ubicado en el mapa Elbeland referido a estas monedas.
+-Modificar la permanencia del Npc Moss y colocarlo en algunos horarios, añadirle algún drop especial (a criterio del administrador).
+
+Comentarios:
+
+La mayoria de las guias estan hechas, voy a hacer las que no esten hasta recibir una nueva respuesta.

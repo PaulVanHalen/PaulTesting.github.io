@@ -1,0 +1,28 @@
+Testeo de mapas:
+
+-Mapa LaCleon- Raklion:
+Colocar en: coordenadas: 74 115
+
+Spots de:
+
+*Dark mammoth
+*Dark iron knight
+
+En 60 88:
+
+Dark coolutin
+Dark giant
+
+Con dos spots tendria que alcanzar -Esto es a partir de mi experiencia en demàs servidores-
+-----------------------------------------
+Mapa vulcanus: tiene varios spots, no es necesario poner nada. 
+-----------------------------------------
+Mapas de kanturu: tienen spots todos, nada que agregar.
+
+-----------------------------------------
+Box of kundum+4 : Me dio 1 jewel of chaos. Si ya se consigue el jewel de otras maneras, en este punto no debería estar.
+-----------------------------------------
+Npc Pamela the Supplier, coordenadas 90 44 (Mapa Lorendeep/Valley of loren):
+
+Hay que ponerle pociones de hp y sd asi pueden comprar para el cs (y quedaría listo)
+

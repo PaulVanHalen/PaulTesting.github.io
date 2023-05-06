@@ -1,0 +1,6 @@
+Reportes-borrador:
+
+-Seeds earth: para ensamblarlos nunca salen: He realizado 6 pruebas y han fallado todas. Es necesario hacer una revisión del % de rate del mismo.
+-En el reseteo del svr, con rollback, se me desaparecio un item (pechera Pad full) cuando estaba armonizandola. 
+ ID: pol94 PJ: Blackheart
+-El evento blood ya no da mas packs de jewels, solo da una unidad por premo (1 soul, 1 chaos,1 bless) -Volver a colocar bundles-
