@@ -1,0 +1,82 @@
+body {
+  background-image: url("/./images/background-blue.jpg");
+  background-size: cover;
+  background-size: 100% auto;
+  background-attachment: fixed;
+  }
+
+#my-navbar {
+    background-color: #5c5c5c !important;
+
+  }
+
+.navbar-nav .nav-link{
+    color: #ffffff;
+  }
+
+.container-fluid .navbar-brand{
+    color:#ffffff;
+}
+
+h2{
+  color: #ffffff;
+  text-align: center;
+  margin: 0.313em;
+}
+
+.bg{
+
+    margin: 1.25em 0.625em;
+    border-image: 2px solid #ffffff;
+    width: 70%;
+    height: 50%;
+    padding: 0.313em;
+    text-align: center;
+    border: 3px solid #0044ff;
+    box-shadow: 0 0 10px #0044ff;
+}
+
+.bg1{
+
+  width: 100%;
+  height: auto;
+  max-height: 100%;
+}
+
+.container1{
+max-width: 100%;
+height: auto;
+display: flex;
+justify-content: center;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+.navbar{
+    background-color: #5c5c5c;
+}
+
+.footer-nav{
+  display: flex;
+  justify-content: center;
+  background-color: #5c5c5c;
+}
+
+.text1{
+color:#ffffff;
+text-align: center;
+
+}
+
+.nav-link:hover {
+  background-color: #616161;
+  color: #79baff;
+}
+
+.logo{
+  margin: 0.313em;
+}

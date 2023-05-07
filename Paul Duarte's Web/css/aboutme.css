@@ -1,0 +1,137 @@
+body {
+background-image: url("/./images/background-violet.jpg");
+background-size: cover;
+background-size: 100% auto;
+background-attachment: fixed;
+}
+
+h2{
+  color: #3f1dff;
+  text-align: center;
+  margin: 0.313em;
+}
+
+.logo{
+  margin: 0.313em;
+}
+
+
+
+#my-navbar {
+    background-color: #5c5c5c !important;
+  }
+
+.navbar-nav .nav-link{
+    color: #ffffff;
+  }
+
+.container-fluid .navbar-brand{
+    color:#ffffff;
+}
+
+.navbar{
+    background-color: #5c5c5c;
+}
+
+.footer-nav{
+  display: flex;
+  justify-content: center;
+  margin-top: 0.616em;
+  background-color: #5c5c5c;
+}
+
+.text2{
+color:#ffffff;
+text-align: center;
+
+}
+
+.nav-link:hover {
+  background-color: #616161;
+  color: #79baff;
+}
+
+/* rows */
+
+.row.row-cols-1.row-cols-md-2.g-4 {
+  max-width: 44em; /* Este valor corresponde a 2 veces el ancho de cada card, más el espacio entre ellas */
+  margin: 0 auto; /* Centra la fila horizontalmente */
+}
+
+
+/* Cards */
+
+.col, .card{
+  width: 100%; /* Establece el ancho al 100% */
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: 1em;
+  display: flex;
+  text-align:center;
+
+}
+
+.col {
+  max-width: 50%;
+  margin-left: 0;
+  display: flex;
+  justify-content: center; /* Centra horizontalmente las tarjetas */
+  text-align:center;
+}
+
+.card{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: inline-block;
+  background-color: #4935ff50;
+  color: #ffffff;
+  margin: 0.313em;
+  border: solid 0.156em #3f1dff;
+  box-shadow: 0 0 10px #3f1dff;
+}
+
+.card-img-top{
+  align-items: center;
+  display: inline-block;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+}
+
+#teamwork{
+  height: 13em;
+}
+
+#comunication{
+  height: 13em;
+}
+
+#creativity{
+  height: 12em;
+}
+
+#detailed{
+  height: 12em;
+}
+
+footer{
+  margin-top: 3em;
+}
+
+/* responsive */
+
+@media (max-width: 47.938em) {
+  .row-cols-sm-1 {
+    flex-direction: column;
+  }
+  .col {
+    width: 100%;
+  }
+}
+
+@media (max-width: 47.938em) {
+  .row {
+    gap: 1em;
+  }
+}

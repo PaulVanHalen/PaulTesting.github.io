@@ -1,0 +1,105 @@
+.logo{
+  margin: 0.313em;
+}
+
+body {
+  background-image: url("/./images/fractal.jpg");
+  background-size: cover;
+  background-size: 100% auto;
+  background-attachment: fixed;
+  }
+
+#my-navbar {
+    background-color: #5c5c5c !important;
+
+  }
+
+.navbar-nav .nav-link{
+    color: #ffffff;
+  }
+
+.container-fluid .navbar-brand{
+    color:#ffffff;
+}
+
+.navbar{
+    background-color: #5c5c5c;
+}
+
+.title{
+  color: #ffffff;
+  text-align:center;
+  margin: 0.616em;
+}
+
+.text1{
+color:#ffffff;
+text-align: center;
+
+}
+
+.nav-link:hover {
+  background-color: #616161;
+  color: #79baff;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1em;
+  padding: 1em;
+  text-align: center;
+  width: 80%;
+  max-width: 100%;
+  margin: 0 auto;
+  width: 70%;
+  height: 50%;
+  text-align: center;
+
+}
+
+.card {
+  margin: 0 auto;
+  color: #ffffff;
+  max-width: 90%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  background-color:#5c5c5cd7;
+  border-radius: 10px;
+  border: 3px solid #2da1ff;
+  box-shadow: 0 0 10px #2da1ff; 
+}
+
+
+
+.IspcLogo {
+  max-width: 100%; 
+  height: auto;
+}
+
+.UtnLogo {
+  background-color: #ffffff;
+  max-width: 100%; 
+  height: auto;
+}
+
+.UbpLogo{
+  max-width: 100%; 
+  height: auto;
+}
+
+.title-2{
+  color: #ffffff;
+  text-align:center;
+  margin: 0.616em;
+}
+
+
+
+.footer-nav{
+  display: flex;
+  justify-content: center;
+  background-color: #5c5c5c;
+}
