@@ -3,7 +3,7 @@
 }
 
 body {
-  background-image: url("/./images/fractal.jpg");
+  background-image: url("../images/fractal.jpg");
   background-size: cover;
   background-size: 100% auto;
   background-attachment: fixed;

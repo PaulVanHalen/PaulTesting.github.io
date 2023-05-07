@@ -21,14 +21,9 @@ body {
 
 .navbar {
   background-color: #5c5c5c;
-  margin-bottom: 0;
 }
 
-.footer-nav {
-  display: flex;
-  justify-content: center;
-  background-color: #5c5c5c;
-}
+
 
 .nav-link:hover {
   background-color: #616161;
@@ -92,4 +87,10 @@ section {
 img{
   padding-top: 0.313em;
   padding-bottom: 0.313em;
+}
+
+.footer-nav {
+  display: flex;
+  justify-content: center;
+  background-color: #5c5c5c;
 }

@@ -1,5 +1,5 @@
 body {
-background-image: url("/./images/background-violet.jpg");
+background-image: url("../images/background-violet.jpg");
 background-size: cover;
 background-size: 100% auto;
 background-attachment: fixed;
@@ -51,18 +51,17 @@ text-align: center;
   color: #79baff;
 }
 
-/* rows */
 
 .row.row-cols-1.row-cols-md-2.g-4 {
-  max-width: 44em; /* Este valor corresponde a 2 veces el ancho de cada card, más el espacio entre ellas */
-  margin: 0 auto; /* Centra la fila horizontalmente */
+  max-width: 44em; 
+  margin: 0 auto; 
 }
 
 
 /* Cards */
 
 .col, .card{
-  width: 100%; /* Establece el ancho al 100% */
+  width: 100%; 
   flex-wrap: wrap;
   justify-content: center;
   margin-left: 1em;
@@ -75,7 +74,7 @@ text-align: center;
   max-width: 50%;
   margin-left: 0;
   display: flex;
-  justify-content: center; /* Centra horizontalmente las tarjetas */
+  justify-content: center; 
   text-align:center;
 }
 
