@@ -103,3 +103,11 @@ section {
   justify-content: center;
   background-color: #5c5c5c;
 }
+
+a{
+  color: #79baff;
+}
+
+a:hover{
+  color: #ffffff;
+}
