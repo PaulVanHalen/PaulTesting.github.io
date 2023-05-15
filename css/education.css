@@ -111,3 +111,23 @@ a{
 a:hover{
   color: #ffffff;
 }
+
+.card:hover{
+  border-color: #00d9ff;
+}
+
+.card:hover{
+  font-size: 1.100em;
+}
+
+.card:active{
+  border-color: #19c79b;
+}
+
+.card {
+  transition: background-color 0.3s ease;
+}
+
+.card:hover {
+  background-color: #69787c;
+}
