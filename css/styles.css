@@ -3,77 +3,105 @@ body {
   background-size: cover;
   background-size: 100% auto;
   background-attachment: fixed;
-  }
-
-#my-navbar {
-    background-color: #5c5c5c !important;
-
-  }
-
-.navbar-nav .nav-link{
-    color: #ffffff;
-  }
-
-.container-fluid .navbar-brand{
-    color:#ffffff;
 }
 
-h2{
+#my-navbar {
+  background-color: #5c5c5c !important;
+
+}
+
+.navbar-nav .nav-link {
+  color: #ffffff;
+}
+
+.container-fluid .navbar-brand {
+  color: #ffffff;
+}
+
+h2 {
   color: #ffffff;
   text-align: center;
   margin: 0.313em;
 }
 
-p{
+p {
   color: #ffffff;
-  text-align:center;
+  text-align: center;
+  text-shadow: 2px 2px 4px #000000, -2px -2px 4px #000000;
 }
 
-.bg{
+.bg {
 
-    margin: 1.25em 0.625em;
-    border-image: 2px solid #ffffff;
-    width: 70%;
-    height: 50%;
-    padding: 0.313em;
-    text-align: center;
-    border: 3px solid #0044ff;
-    box-shadow: 0 0 10px #0044ff;
+  margin: 1.25em 0.625em;
+  border-image: 2px solid #ffffff;
+  width: 70%;
+  height: 50%;
+  padding: 0.313em;
+  text-align: center;
+  border: 3px solid #0044ff;
+  box-shadow: 0 0 10px #0044ff;
 }
 
-.bg1{
+.bg1 {
 
   width: 100%;
   height: auto;
   max-height: 100%;
 }
 
-.container1{
-max-width: 100%;
-height: auto;
-display: flex;
-justify-content: center;
+.container1 {
+  max-width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
 }
 
-.container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-
-.navbar{
-    background-color: #5c5c5c;
+.presentation{
+  color: #ffffff;
+  text-align: center;
 }
 
-.footer-nav{
+.comments{
+  color: #ffffff;
+  text-align: center;
+}
+
+.video-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  width: 560px;
+  height: 315px;
+  margin: 0 auto;
+  margin-bottom: 2em;
+  margin-top: 2em;
+  border: 0.120em solid #0044ff;
+  border-radius: 10px;
+  border: 3px solid #0044ff;
+  box-shadow: 0 0 10px #0044ff;
+}
+
+iframe {
+  width: 100%;
+  height: 100%;
+}
+
+.navbar {
+  background-color: #5c5c5c;
+}
+
+.footer-nav {
   display: flex;
   justify-content: center;
   background-color: #5c5c5c;
 }
 
-.text1{
-color:#ffffff;
-text-align: center;
+.text1 {
+  color: #ffffff;
+  text-align: center;
+  text-shadow: 2px 2px 4px #000000, -2px -2px 4px #000000;
 
 }
 
@@ -82,6 +110,6 @@ text-align: center;
   color: #79baff;
 }
 
-.logo{
+.logo {
   margin: 0.313em;
 }
